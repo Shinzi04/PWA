@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <link rel="shortcut icon" href="web-icon.png">
+    <link rel="manifest" href="app.webmanifest">
+    
+    <title>Our Story</title>
+  </head>
+  <body class="bg-primary min-h-screen relative">
+    <header
+      class="@container/header shadow-xl font-primary bg-primary flex justify-between items-center p-4 mx-auto"
+    >
+      <h1 class="text-xl md:text-3xl font-bold text-blue-500 sm:flex hidden"><a href="/#">Our Story</a></h1>
+      <a
+        class="transition left-1/2 bg-slate-950 text-white absolute p-2 m-3 -translate-y-16 focus:translate-y-0 -translate-x-1/2"
+        href="#main-content">Skip to content</a
+      >
+      <nav class="w-full sm:w-auto">
+          <div class="flex gap-1 sm:gap-2 items-center justify-center" id="navbar-button"></div>
+      </nav>
+    </header>
+    <main class="container mx-auto pt-8 pb-20 px-2" id="main-content" tabindex="-1">
+      <section id="main-container"></section>
+    </main>
+    <footer class="shadow-xl font-primary bg-transparent absolute bottom-0 w-full select-auto">
+      <section class="@container/footer bg-secondary outline-blue-500">
+        <h1 class="container mx-auto text-xl font-bold text-blue-500 p-4 flex justify-center">
+          &copy; Our Story 2025
+        </h1>
+      </section>
+    </footer>
+  </body>
+</html>

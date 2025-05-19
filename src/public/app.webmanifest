@@ -1,0 +1,81 @@
+{
+  "name": "Our Story",
+  "start_url": "/#/",
+  "display": "standalone",
+  "theme_color": "#1a1f2c",
+  "background_color": "#1a1f2c",
+  "description": "Share and Create Your Own Story",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "images/icons/our-story-x64.png",
+      "type": "image/png",
+      "sizes": "64x64",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/our-story-x128.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/icons/our-story-x256.png",
+      "type": "image/png",
+      "sizes": "256x256",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/our-story-x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshots/OurStoryApp-1.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/OurStoryApp-2.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/OurStoryApp-3.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+        {
+      "src": "images/screenshots/OurStoryApp-4.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+      {
+      "src": "images/screenshots/OurStoryApp-5.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+      {
+      "src": "images/screenshots/OurStoryApp-6.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "New Story",
+      "short_name": "New",
+      "url": "/#/add-story",
+      "description": "Create a new story"
+    }
+  ]
+}

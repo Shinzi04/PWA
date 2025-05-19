@@ -1,6 +1,6 @@
-##Our Story
+## Our Story
 
-###Project Checklist
+### Project Checklist
 [ ] Push Notification
 [ ] PWA (Progressive Web App)
 [ ] IndexedDB
@@ -8,7 +8,7 @@
 [ ] Workbox
 [ ] Not Found Routing
 
-###How to run Project
+### How to run Project
 `npm install`
 or
 `npm i`

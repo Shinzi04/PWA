@@ -2,12 +2,12 @@
 
 
 ### Project Checklist  
-[ ] Push Notification  
-[ ] PWA (Progressive Web App)  
-[ ] IndexedDB  
-[ ] PWA Shortcuts  
-[ ] Workbox  
-[ ] Not Found Routing  
+[✅] Push Notification  
+[✅] PWA (Progressive Web App)  
+[✅] IndexedDB  
+[✅] PWA Shortcuts  
+[✅] Workbox  
+[✅] Not Found Routing  
 
 ### How to run Project  
 `npm install`  

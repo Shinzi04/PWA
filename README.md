@@ -10,8 +10,8 @@
 [✅] Not Found Routing  
 
 ### How to run Project  
-`npm install`  
+``npm install``  
 or  
-`npm i`  
+``npm i``  
 then  
-`npm run build && npm run serve`  
+``npm run build && npm run serve``  
